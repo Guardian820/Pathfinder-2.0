@@ -5,8 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
 
-namespace AmaknaCore.Debug.Utilities.Pathfinder.GamePathfinder
-{
     public class Cell
     {
         #region Declarations
@@ -80,4 +78,3 @@ namespace AmaknaCore.Debug.Utilities.Pathfinder.GamePathfinder
 
         #endregion
     }
-}

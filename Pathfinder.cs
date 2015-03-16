@@ -7,8 +7,6 @@ using System.Drawing;
 using AmaknaCore.Debug.Client.Data.Map;
 using AmaknaCore.Debug.Client.Data.Map.Data;
 
-namespace AmaknaCore.Debug.Utilities.Pathfinder.GamePathfinder
-{
     public class Pathfinder
     {
 
@@ -437,4 +435,3 @@ namespace AmaknaCore.Debug.Utilities.Pathfinder.GamePathfinder
         #endregion
 
     }
-}

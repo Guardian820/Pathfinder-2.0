@@ -5,8 +5,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AmaknaCore.Debug.Utilities.Pathfinder.GamePathfinder
-{
     public static class PathingUtils
     {
         #region Declarations
@@ -106,4 +104,3 @@ namespace AmaknaCore.Debug.Utilities.Pathfinder.GamePathfinder
 
         #endregion
     }
-}

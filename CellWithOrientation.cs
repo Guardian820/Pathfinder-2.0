@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AmaknaCore.Debug.Utilities.Pathfinder.GamePathfinder
-{
     public class CellWithOrientation
     {
         #region Declarations
@@ -68,4 +66,3 @@ namespace AmaknaCore.Debug.Utilities.Pathfinder.GamePathfinder
 
         #endregion
     }
-}
